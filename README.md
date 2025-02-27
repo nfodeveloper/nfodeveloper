@@ -1,10 +1,6 @@
 <div align="center">
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0c0c0c&height=180&section=header&text=nfo&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSecurity%20Specialist&descSize=20&descAlignY=55"/>
   
- <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1270526762350149653/1323525103845380147/IMG_5684.jpg?ex=6777774e&is=677625ce&hm=ac7caa7625dcf015a20b27ba3481fbe41f8f8939aa524b7b8468b14e16dca144&" width="200" style="border-radius: 50%; border: 4px solid #0c0c0c; box-shadow: 0 0 25px #0c0c0c" />
- </p>
-
  <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?color=0c0c0c&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;CyberSecurity+Specialist;Always+learning+new+things" />
  </div>
@@ -48,10 +44,10 @@
  </div>
 
  <div align="center" style="margin: 20px 0">
-   <a href="https://discord.gg/nowstealer" target="_blank">
+   <a href="https://discord.gg/valhallacodes" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
    </a>
-   <a href="https://instagram.com/futurewxq" target="_blank">
+   <a href="https://instagram.com/jp.reis011" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
  </div>
